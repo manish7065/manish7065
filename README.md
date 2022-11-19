@@ -1,5 +1,10 @@
 ### Hi there 👋 My name is Manish Kumar.
 
+## DS & ML Enthusiast | IOT/Embedded Developer.
+
+Being an Engineer is like providing/contributing a Sustinable, Economical, User friendly Products/Services by using your knowledge & experience.
+DS/ML skills gives you the power to analyse, predict and utilise data in optimal way.
+
 <!--
 **manish7065/manish7065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
