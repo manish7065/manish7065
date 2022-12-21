@@ -20,7 +20,7 @@ DS/ML skills gives you the power to analyse, predict and utilise data in optimal
 
 <hr>
 
-[linkedin]:www.linkedin.com/in/manish-kumar-5ba04213a
+[linkedin]: http://www.linkedin.com/in/manish-kumar-5ba04213a
 
 <!--
 **manish7065/manish7065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
