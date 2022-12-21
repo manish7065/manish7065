@@ -14,7 +14,7 @@ DS/ML skills gives you the power to analyse, predict and utilise data in optimal
 
 #### You can also find me on- 
 
-[<img align="left" alt="Medamallela Sethu Sai | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Manish Kumar linkedin prifile" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br>
 
