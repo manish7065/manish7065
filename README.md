@@ -1,11 +1,44 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 <h1 align="center">I'm Manish</h1>
 
-## DS & ML Enthusiast | IOT/Embedded Developer.
+<h1> DS/ML/DL/NLP/CV Enthusiast | IOT/Embedded Developer.</h1>
 
-Being an Engineer is like providing/contributing a Sustinable, Economical, User friendly Products/Services by using your knowledge & experience.
-DS/ML skills gives you the power to analyse, predict and utilise data in optimal way.
+![Python](https://img.shields.io/badge/Python-Expert-blue)
 
+<!-- ![AWS](https://img.shields.io/badge/AWS-Certified-orange) -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish7065&show_icons=true&theme=radical)
+
+<!-- ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=manish7065&bg_color=ffffff&color=000000&line=000000&point=00FF00) -->
+
+<!-- [![face-detection-using-mtcnn](https://github-readme-stats.vercel.app/api/pin/?username=manish7065&repo=face-detection-using-mtcnn)](https://github.com/manish7065/face-detection-using-mtcnn) -->
+
+<!-- [![Project Name](https://github.com/manish7065/face-detection-using-mtcnn/blob/main/images/preview.png)](https://github.com/manish7065/face-detection-using-mtcnn) -->
+
+<!-- [![sensor_fault](https://raw.githubusercontent.com/manish7065/sensor_fault/main/docs/consumer.drawio%20(2)%20(1).svg)](https://github.com/manish7065/sensor_fault) -->
+
+
+
+
+
+
+## 🚀 Featured Projects
+- [face-detection-using-mtcnn](https://github.com/manish7065/face-detection-using-mtcnn): This is a face detection based authentication project.
+
+
+## Experienced IOT/Embedded Developer skilled in DS/ML/DL/CV, dedicated to automating arduous tasks and driving efficiency. 
+
+<p style="color: red;">"Proficient in designing end-to-end IOT/Atomation products, I specialize in handling large-scale data processing, pipelining, analysis, model creation, and ultimate automation."</p>
+
+Key Points:
+
+- "Led a team of Embedded hardware developers to achieve project success."
+- "Implemented industrial automation using PLCs for enhanced efficiency."
+- "Managed SQL/Nosql Databases and executed various ETL processes."
+- "Utilized Spark clusters for big data analysis and processing."
+- "Expert in Python for end-to-end projects involving DS/ML and Embedded systems."
+- "Currently expanding expertise in NLP and Computer Vision concepts."
+- "Passionate about exploring the futuristic and ever-evolving applications of Artificial Intelligence."
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a><a href="https://git-scm.com/"target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
