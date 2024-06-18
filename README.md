@@ -7,7 +7,7 @@
 
 <!-- ![AWS](https://img.shields.io/badge/AWS-Certified-orange) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish7065&show_icons=true&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish7065&show_icons=true&theme=radical) -->
 
 <!-- ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=manish7065&bg_color=ffffff&color=000000&line=000000&point=00FF00) -->
 
