@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
+manis<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 <h1 align="center">I'm Manish</h1>
 
 <h1> DS/ML/DL/NLP/CV Enthusiast | IOT/Embedded Developer.</h1>
@@ -26,7 +26,7 @@
 - [face-detection-using-mtcnn](https://github.com/manish7065/face-detection-using-mtcnn): This is a face detection based authentication project.
 
 
-## Experienced IOT/Embedded Developer skilled in DS/ML/DL/CV, dedicated to automating arduous tasks and driving efficiency. 
+## Experienced IOT/Embedded Developer skilled in DE/DS/ML/DL, dedicated to automating arduous tasks and driving efficiency. 
 
 <p style="color: red;">"Proficient in designing end-to-end IOT/Atomation products, I specialize in handling large-scale data processing, pipelining, analysis, model creation, and ultimate automation."</p>
 
